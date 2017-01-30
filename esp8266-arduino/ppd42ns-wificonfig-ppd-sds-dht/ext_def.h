@@ -124,3 +124,6 @@
 #define CLIENT_ADDRESS 2
 #define SERVER_ADDRESS 100
 #endif
+// smooth sensor data (anti smoker)
+#define SMOOTH_DATA 1
+#define SMOOTH_DELTA 50
